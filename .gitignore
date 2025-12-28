@@ -1,1 +1,14 @@
+# Node
+node_modules/
+
+# Env
+.env
+.env.local
+.env.development
+.env.production
+
+# Build
+dist/
+build/
+
 firebasePracticeServer/src/main/resources/application-dev.properties
